@@ -1,0 +1,8 @@
+C:\Users\justus\Dropbox\CSCC\C#\CardWar\Schnees_Lab4\bin\Release\Schnees_Lab4.exe
+C:\Users\justus\Dropbox\CSCC\C#\CardWar\Schnees_Lab4\bin\Release\Schnees_Lab4.pdb
+C:\Users\justus\Dropbox\CSCC\C#\CardWar\Schnees_Lab4\obj\Release\Schnees_Lab4.WarForm.resources
+C:\Users\justus\Dropbox\CSCC\C#\CardWar\Schnees_Lab4\obj\Release\Schnees_Lab4.Properties.Resources.resources
+C:\Users\justus\Dropbox\CSCC\C#\CardWar\Schnees_Lab4\obj\Release\CardWar.csproj.GenerateResource.Cache
+C:\Users\justus\Dropbox\CSCC\C#\CardWar\Schnees_Lab4\obj\Release\CardWar.csproj.CoreCompileInputs.cache
+C:\Users\justus\Dropbox\CSCC\C#\CardWar\Schnees_Lab4\obj\Release\Schnees_Lab4.exe
+C:\Users\justus\Dropbox\CSCC\C#\CardWar\Schnees_Lab4\obj\Release\Schnees_Lab4.pdb
